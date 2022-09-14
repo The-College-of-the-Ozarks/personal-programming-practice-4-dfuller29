@@ -13,4 +13,4 @@ x = float(x)
 if -10 < x <= 7:
     print("g(" + str(x) + ") = " + str(g(x)))
 else:
-  print("Invalid Input")
+  print("Invalid input. Program will not run.")
